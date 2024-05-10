@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memory Matrix</string>
+    <string name="memory_matrix">Memory Matrix</string>
+    <string name="zero">0</string>
+    <string name="start">START</string>
+    <string name="nisalka">Created By Nisalka</string>
+    <string name="high_score">High Score:</string>
+</resources>
